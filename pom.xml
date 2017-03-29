@@ -50,6 +50,24 @@
                 </executions>
             </plugin>
             <!--here-->
+            <!--build docker-->
+            <plugin>
+                <groupId>com.spotify</groupId>
+                <artifactId>docker-maven-plugin</artifactId>
+                <version>0.4.10</version>
+                <configuration>
+                    <imageName>exampleImage</imageName>
+                    <dockerDirectory>docker</dockerDirectory>
+                    <resources>
+                        <resource>
+                            <targetPath>/</targetPath>
+                            <directory>/</directory>
+                            <include>target/CucumberBasic-1.0-SNAPSHOT-jar-with-dependencies.jar</include>
+                        </resource>
+                    </resources>
+                </configuration>
+            </plugin>
+            <!--end build docker-->
             <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
                 <version>3.0.0</version>

@@ -50,8 +50,6 @@ public class main {
             System.out.println("稅金 = " + invoice.getVAT());
             System.out.println("稅率 = " + invoice.getVatRate());
 
-//            System.out.println("hellohellohellohellohellohellohello");
-
 
         }
 }
