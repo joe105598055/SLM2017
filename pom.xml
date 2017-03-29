@@ -59,7 +59,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>tw.teddysoft.bdd.domain.invoice.Main</mainClass>
+                            <mainClass>tw.teddysoft.bdd.domain.invoice.main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
