@@ -206,7 +206,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:19"
 });
 formatter.result({
-  "duration": 236687647,
+  "duration": 65603199,
   "status": "passed"
 });
 formatter.match({
@@ -219,14 +219,14 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:24"
 });
 formatter.result({
-  "duration": 143359,
+  "duration": 70305,
   "status": "passed"
 });
 formatter.match({
   "location": "IssuingInvoiceStep.java:28"
 });
 formatter.result({
-  "duration": 38305,
+  "duration": 36955,
   "status": "passed"
 });
 formatter.match({
@@ -239,7 +239,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:32"
 });
 formatter.result({
-  "duration": 1079749,
+  "duration": 1532588,
   "status": "passed"
 });
 formatter.match({
@@ -252,7 +252,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:37"
 });
 formatter.result({
-  "duration": 108468,
+  "duration": 59188,
   "status": "passed"
 });
 formatter.scenario({
@@ -307,7 +307,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:19"
 });
 formatter.result({
-  "duration": 121363,
+  "duration": 50776,
   "status": "passed"
 });
 formatter.match({
@@ -320,14 +320,14 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:24"
 });
 formatter.result({
-  "duration": 79265,
+  "duration": 99148,
   "status": "passed"
 });
 formatter.match({
   "location": "IssuingInvoiceStep.java:28"
 });
 formatter.result({
-  "duration": 25410,
+  "duration": 12018,
   "status": "passed"
 });
 formatter.match({
@@ -340,7 +340,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:32"
 });
 formatter.result({
-  "duration": 91780,
+  "duration": 37857,
   "status": "passed"
 });
 formatter.match({
@@ -353,7 +353,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:37"
 });
 formatter.result({
-  "duration": 75094,
+  "duration": 37255,
   "status": "passed"
 });
 formatter.scenario({
@@ -408,7 +408,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:19"
 });
 formatter.result({
-  "duration": 103917,
+  "duration": 47471,
   "status": "passed"
 });
 formatter.match({
@@ -421,14 +421,14 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:24"
 });
 formatter.result({
-  "duration": 86850,
+  "duration": 37256,
   "status": "passed"
 });
 formatter.match({
   "location": "IssuingInvoiceStep.java:28"
 });
 formatter.result({
-  "duration": 25031,
+  "duration": 34551,
   "status": "passed"
 });
 formatter.match({
@@ -441,7 +441,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:32"
 });
 formatter.result({
-  "duration": 93298,
+  "duration": 103655,
   "status": "passed"
 });
 formatter.match({
@@ -454,7 +454,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:37"
 });
 formatter.result({
-  "duration": 770274,
+  "duration": 87129,
   "status": "passed"
 });
 formatter.scenario({
@@ -509,7 +509,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:19"
 });
 formatter.result({
-  "duration": 113399,
+  "duration": 76915,
   "status": "passed"
 });
 formatter.match({
@@ -522,14 +522,14 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:24"
 });
 formatter.result({
-  "duration": 102021,
+  "duration": 38758,
   "status": "passed"
 });
 formatter.match({
   "location": "IssuingInvoiceStep.java:28"
 });
 formatter.result({
-  "duration": 34512,
+  "duration": 14121,
   "status": "passed"
 });
 formatter.match({
@@ -542,7 +542,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:32"
 });
 formatter.result({
-  "duration": 314784,
+  "duration": 85027,
   "status": "passed"
 });
 formatter.match({
@@ -555,7 +555,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:37"
 });
 formatter.result({
-  "duration": 114537,
+  "duration": 42664,
   "status": "passed"
 });
 formatter.scenario({
@@ -610,7 +610,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:19"
 });
 formatter.result({
-  "duration": 97849,
+  "duration": 44767,
   "status": "passed"
 });
 formatter.match({
@@ -623,14 +623,14 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:24"
 });
 formatter.result({
-  "duration": 111881,
+  "duration": 47471,
   "status": "passed"
 });
 formatter.match({
   "location": "IssuingInvoiceStep.java:28"
 });
 formatter.result({
-  "duration": 49683,
+  "duration": 9915,
   "status": "passed"
 });
 formatter.match({
@@ -643,7 +643,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:32"
 });
 formatter.result({
-  "duration": 94436,
+  "duration": 33650,
   "status": "passed"
 });
 formatter.match({
@@ -656,7 +656,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:37"
 });
 formatter.result({
-  "duration": 105055,
+  "duration": 47471,
   "status": "passed"
 });
 formatter.scenario({
@@ -711,7 +711,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:19"
 });
 formatter.result({
-  "duration": 108848,
+  "duration": 60390,
   "status": "passed"
 });
 formatter.match({
@@ -724,14 +724,14 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:24"
 });
 formatter.result({
-  "duration": 70921,
+  "duration": 32749,
   "status": "passed"
 });
 formatter.match({
   "location": "IssuingInvoiceStep.java:28"
 });
 formatter.result({
-  "duration": 25031,
+  "duration": 11117,
   "status": "passed"
 });
 formatter.match({
@@ -744,7 +744,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:32"
 });
 formatter.result({
-  "duration": 76989,
+  "duration": 48972,
   "status": "passed"
 });
 formatter.match({
@@ -757,7 +757,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:37"
 });
 formatter.result({
-  "duration": 91401,
+  "duration": 60690,
   "status": "passed"
 });
 formatter.scenario({
@@ -812,7 +812,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:19"
 });
 formatter.result({
-  "duration": 103538,
+  "duration": 98247,
   "status": "passed"
 });
 formatter.match({
@@ -825,14 +825,14 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:24"
 });
 formatter.result({
-  "duration": 75851,
+  "duration": 32448,
   "status": "passed"
 });
 formatter.match({
   "location": "IssuingInvoiceStep.java:28"
 });
 formatter.result({
-  "duration": 17446,
+  "duration": 9614,
   "status": "passed"
 });
 formatter.match({
@@ -845,7 +845,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:32"
 });
 formatter.result({
-  "duration": 66370,
+  "duration": 28242,
   "status": "passed"
 });
 formatter.match({
@@ -858,7 +858,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:37"
 });
 formatter.result({
-  "duration": 78886,
+  "duration": 46869,
   "status": "passed"
 });
 formatter.scenario({
@@ -913,7 +913,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:19"
 });
 formatter.result({
-  "duration": 104675,
+  "duration": 145417,
   "status": "passed"
 });
 formatter.match({
@@ -926,14 +926,14 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:24"
 });
 formatter.result({
-  "duration": 82299,
+  "duration": 65798,
   "status": "passed"
 });
 formatter.match({
   "location": "IssuingInvoiceStep.java:28"
 });
 formatter.result({
-  "duration": 21617,
+  "duration": 24937,
   "status": "passed"
 });
 formatter.match({
@@ -946,7 +946,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:32"
 });
 formatter.result({
-  "duration": 75473,
+  "duration": 65498,
   "status": "passed"
 });
 formatter.match({
@@ -959,7 +959,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:37"
 });
 formatter.result({
-  "duration": 70163,
+  "duration": 33950,
   "status": "passed"
 });
 formatter.scenario({
@@ -1014,7 +1014,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:19"
 });
 formatter.result({
-  "duration": 271929,
+  "duration": 92238,
   "status": "passed"
 });
 formatter.match({
@@ -1027,14 +1027,14 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:24"
 });
 formatter.result({
-  "duration": 620467,
+  "duration": 31547,
   "status": "passed"
 });
 formatter.match({
   "location": "IssuingInvoiceStep.java:28"
 });
 formatter.result({
-  "duration": 24273,
+  "duration": 10215,
   "status": "passed"
 });
 formatter.match({
@@ -1047,7 +1047,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:32"
 });
 formatter.result({
-  "duration": 70922,
+  "duration": 30946,
   "status": "passed"
 });
 formatter.match({
@@ -1060,7 +1060,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:37"
 });
 formatter.result({
-  "duration": 51200,
+  "duration": 27341,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1269,7 +1269,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:19"
 });
 formatter.result({
-  "duration": 90263,
+  "duration": 48673,
   "status": "passed"
 });
 formatter.match({
@@ -1282,14 +1282,14 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:41"
 });
 formatter.result({
-  "duration": 93298,
+  "duration": 64296,
   "status": "passed"
 });
 formatter.match({
   "location": "IssuingInvoiceStep.java:28"
 });
 formatter.result({
-  "duration": 16308,
+  "duration": 14421,
   "status": "passed"
 });
 formatter.match({
@@ -1302,7 +1302,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:32"
 });
 formatter.result({
-  "duration": 90643,
+  "duration": 36955,
   "status": "passed"
 });
 formatter.match({
@@ -1315,7 +1315,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:45"
 });
 formatter.result({
-  "duration": 114536,
+  "duration": 44467,
   "status": "passed"
 });
 formatter.scenario({
@@ -1370,7 +1370,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:19"
 });
 formatter.result({
-  "duration": 127431,
+  "duration": 46870,
   "status": "passed"
 });
 formatter.match({
@@ -1383,14 +1383,14 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:41"
 });
 formatter.result({
-  "duration": 94056,
+  "duration": 64897,
   "status": "passed"
 });
 formatter.match({
   "location": "IssuingInvoiceStep.java:28"
 });
 formatter.result({
-  "duration": 28444,
+  "duration": 11116,
   "status": "passed"
 });
 formatter.match({
@@ -1403,7 +1403,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:32"
 });
 formatter.result({
-  "duration": 117570,
+  "duration": 48673,
   "status": "passed"
 });
 formatter.match({
@@ -1416,7 +1416,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:45"
 });
 formatter.result({
-  "duration": 101641,
+  "duration": 35152,
   "status": "passed"
 });
 formatter.scenario({
@@ -1471,7 +1471,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:19"
 });
 formatter.result({
-  "duration": 105814,
+  "duration": 42063,
   "status": "passed"
 });
 formatter.match({
@@ -1484,14 +1484,14 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:41"
 });
 formatter.result({
-  "duration": 84953,
+  "duration": 36054,
   "status": "passed"
 });
 formatter.match({
   "location": "IssuingInvoiceStep.java:28"
 });
 formatter.result({
-  "duration": 21239,
+  "duration": 9014,
   "status": "passed"
 });
 formatter.match({
@@ -1504,7 +1504,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:32"
 });
 formatter.result({
-  "duration": 85713,
+  "duration": 38457,
   "status": "passed"
 });
 formatter.match({
@@ -1517,7 +1517,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:45"
 });
 formatter.result({
-  "duration": 82678,
+  "duration": 37556,
   "status": "passed"
 });
 formatter.scenario({
@@ -1572,7 +1572,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:19"
 });
 formatter.result({
-  "duration": 106571,
+  "duration": 108762,
   "status": "passed"
 });
 formatter.match({
@@ -1585,14 +1585,14 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:41"
 });
 formatter.result({
-  "duration": 123638,
+  "duration": 64897,
   "status": "passed"
 });
 formatter.match({
   "location": "IssuingInvoiceStep.java:28"
 });
 formatter.result({
-  "duration": 16687,
+  "duration": 12318,
   "status": "passed"
 });
 formatter.match({
@@ -1605,7 +1605,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:32"
 });
 formatter.result({
-  "duration": 78886,
+  "duration": 197094,
   "status": "passed"
 });
 formatter.match({
@@ -1618,7 +1618,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:45"
 });
 formatter.result({
-  "duration": 47787,
+  "duration": 91036,
   "status": "passed"
 });
 formatter.scenario({
@@ -1673,7 +1673,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:19"
 });
 formatter.result({
-  "duration": 152841,
+  "duration": 81421,
   "status": "passed"
 });
 formatter.match({
@@ -1686,14 +1686,14 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:41"
 });
 formatter.result({
-  "duration": 120225,
+  "duration": 75112,
   "status": "passed"
 });
 formatter.match({
   "location": "IssuingInvoiceStep.java:28"
 });
 formatter.result({
-  "duration": 19721,
+  "duration": 23736,
   "status": "passed"
 });
 formatter.match({
@@ -1706,7 +1706,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:32"
 });
 formatter.result({
-  "duration": 76610,
+  "duration": 33350,
   "status": "passed"
 });
 formatter.match({
@@ -1719,7 +1719,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:45"
 });
 formatter.result({
-  "duration": 62957,
+  "duration": 54982,
   "status": "passed"
 });
 formatter.scenario({
@@ -1774,7 +1774,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:19"
 });
 formatter.result({
-  "duration": 93677,
+  "duration": 60390,
   "status": "passed"
 });
 formatter.match({
@@ -1787,14 +1787,14 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:41"
 });
 formatter.result({
-  "duration": 83816,
+  "duration": 32148,
   "status": "passed"
 });
 formatter.match({
   "location": "IssuingInvoiceStep.java:28"
 });
 formatter.result({
-  "duration": 18584,
+  "duration": 9014,
   "status": "passed"
 });
 formatter.match({
@@ -1807,7 +1807,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:32"
 });
 formatter.result({
-  "duration": 64853,
+  "duration": 39959,
   "status": "passed"
 });
 formatter.match({
@@ -1820,7 +1820,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:45"
 });
 formatter.result({
-  "duration": 69025,
+  "duration": 32148,
   "status": "passed"
 });
 formatter.scenario({
@@ -1881,7 +1881,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:19"
 });
 formatter.result({
-  "duration": 112640,
+  "duration": 46870,
   "status": "passed"
 });
 formatter.match({
@@ -1894,14 +1894,14 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:41"
 });
 formatter.result({
-  "duration": 64474,
+  "duration": 32749,
   "status": "passed"
 });
 formatter.match({
   "location": "IssuingInvoiceStep.java:28"
 });
 formatter.result({
-  "duration": 25411,
+  "duration": 10816,
   "status": "passed"
 });
 formatter.match({
@@ -1914,7 +1914,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:32"
 });
 formatter.result({
-  "duration": 75472,
+  "duration": 67902,
   "status": "passed"
 });
 formatter.match({
@@ -1927,7 +1927,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:45"
 });
 formatter.result({
-  "duration": 514274,
+  "duration": 44166,
   "status": "passed"
 });
 formatter.scenario({
@@ -1982,7 +1982,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:19"
 });
 formatter.result({
-  "duration": 90643,
+  "duration": 52879,
   "status": "passed"
 });
 formatter.match({
@@ -1995,14 +1995,14 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:41"
 });
 formatter.result({
-  "duration": 89505,
+  "duration": 42363,
   "status": "passed"
 });
 formatter.match({
   "location": "IssuingInvoiceStep.java:28"
 });
 formatter.result({
-  "duration": 20480,
+  "duration": 9915,
   "status": "passed"
 });
 formatter.match({
@@ -2015,7 +2015,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:32"
 });
 formatter.result({
-  "duration": 67508,
+  "duration": 38157,
   "status": "passed"
 });
 formatter.match({
@@ -2028,7 +2028,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:45"
 });
 formatter.result({
-  "duration": 51200,
+  "duration": 36054,
   "status": "passed"
 });
 formatter.scenario({
@@ -2083,7 +2083,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:19"
 });
 formatter.result({
-  "duration": 96711,
+  "duration": 43865,
   "status": "passed"
 });
 formatter.match({
@@ -2096,14 +2096,14 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:41"
 });
 formatter.result({
-  "duration": 85333,
+  "duration": 29143,
   "status": "passed"
 });
 formatter.match({
   "location": "IssuingInvoiceStep.java:28"
 });
 formatter.result({
-  "duration": 26169,
+  "duration": 8713,
   "status": "passed"
 });
 formatter.match({
@@ -2116,7 +2116,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:32"
 });
 formatter.result({
-  "duration": 74335,
+  "duration": 39058,
   "status": "passed"
 });
 formatter.match({
@@ -2129,7 +2129,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:45"
 });
 formatter.result({
-  "duration": 86091,
+  "duration": 27942,
   "status": "passed"
 });
 formatter.scenario({
@@ -2185,7 +2185,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:19"
 });
 formatter.result({
-  "duration": 100504,
+  "duration": 181772,
   "status": "passed"
 });
 formatter.match({
@@ -2198,7 +2198,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:24"
 });
 formatter.result({
-  "duration": 70922,
+  "duration": 135803,
   "status": "passed"
 });
 formatter.match({
@@ -2211,14 +2211,14 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:41"
 });
 formatter.result({
-  "duration": 80403,
+  "duration": 53780,
   "status": "passed"
 });
 formatter.match({
   "location": "IssuingInvoiceStep.java:28"
 });
 formatter.result({
-  "duration": 29203,
+  "duration": 11417,
   "status": "passed"
 });
 formatter.match({
@@ -2231,7 +2231,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:32"
 });
 formatter.result({
-  "duration": 92539,
+  "duration": 49574,
   "status": "passed"
 });
 formatter.match({
@@ -2244,7 +2244,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:45"
 });
 formatter.result({
-  "duration": 79644,
+  "duration": 65498,
   "status": "passed"
 });
 formatter.match({
@@ -2257,7 +2257,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:37"
 });
 formatter.result({
-  "duration": 60302,
+  "duration": 65498,
   "status": "passed"
 });
 formatter.scenario({
@@ -2313,7 +2313,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:19"
 });
 formatter.result({
-  "duration": 92160,
+  "duration": 73910,
   "status": "passed"
 });
 formatter.match({
@@ -2326,7 +2326,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:41"
 });
 formatter.result({
-  "duration": 67887,
+  "duration": 39659,
   "status": "passed"
 });
 formatter.match({
@@ -2339,14 +2339,14 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:24"
 });
 formatter.result({
-  "duration": 57268,
+  "duration": 37255,
   "status": "passed"
 });
 formatter.match({
   "location": "IssuingInvoiceStep.java:28"
 });
 formatter.result({
-  "duration": 15170,
+  "duration": 11117,
   "status": "passed"
 });
 formatter.match({
@@ -2359,7 +2359,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:32"
 });
 formatter.result({
-  "duration": 76610,
+  "duration": 30645,
   "status": "passed"
 });
 formatter.match({
@@ -2372,7 +2372,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:45"
 });
 formatter.result({
-  "duration": 73577,
+  "duration": 35153,
   "status": "passed"
 });
 formatter.match({
@@ -2385,7 +2385,7 @@ formatter.match({
   "location": "IssuingInvoiceStep.java:37"
 });
 formatter.result({
-  "duration": 66370,
+  "duration": 44766,
   "status": "passed"
 });
 });
